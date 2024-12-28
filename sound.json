@@ -1,0 +1,92 @@
+[
+    {
+        "frq": "40 Hz (Gamma)",
+        "leftEar": 300,
+        "rightEar": 340,
+        "frqDiffrence": 40,
+        "effect": "Enhances memory, cognition, focus, problem-solving",
+        "duration": 1800,
+        "usage": "During study or problem-solving"
+    },
+    {
+        "frq": "10 Hz (Alpha)",
+        "leftEar": 200,
+        "rightEar": 210,
+        "frqDiffrence": 10,
+        "effect": "Promotes relaxation, stress reduction, mental clarity",
+        "duration": 1200,
+        "usage": "Relaxation after stress"
+    },
+    {
+        "frq": "7.83 Hz (Schumann Resonance)",
+        "leftEar": 100,
+        "rightEar": 107.83,
+        "frqDiffrence": 7.83,
+        "effect": "Grounding, balance, reduces stress, anxiety",
+        "duration": 1800,
+        "usage": "Meditation or pre-sleep sessions"
+    },
+    {
+        "frq": "396 Hz",
+        "leftEar": 396,
+        "rightEar": 0,
+        "frqDiffrence": 0,
+        "effect": "Removes fear, guilt; grounding",
+        "duration": 1800,
+        "usage": "Meditation or emotional release"
+    },
+    {
+        "frq": "528 Hz",
+        "leftEar": 528,
+        "rightEar": 0,
+        "frqDiffrence": 0,
+        "effect": "DNA repair, healing, positive energy",
+        "duration": 2400,
+        "usage": "Meditation, yoga, relaxation"
+    },
+    {
+        "frq": "432 Hz",
+        "leftEar": 432,
+        "rightEar": 0,
+        "frqDiffrence": 0,
+        "effect": "Relaxation, connection with nature",
+        "duration": 3600,
+        "usage": "Mindfulness, creative tasks"
+    },
+    {
+        "frq": "174 Hz",
+        "leftEar": 174,
+        "rightEar": 0,
+        "frqDiffrence": 0,
+        "effect": "Reduces physical pain, healing, comfort",
+        "duration": 1800,
+        "usage": "Relaxation or pain relief"
+    },
+    {
+        "frq": "852 Hz",
+        "leftEar": 852,
+        "rightEar": 0,
+        "frqDiffrence": 0,
+        "effect": "Enhances intuition, spiritual connection",
+        "duration": 2400,
+        "usage": "Meditation, spiritual practices"
+    },
+    {
+        "frq": "0.5-4 Hz (Delta) 1",
+        "leftEar": 100,
+        "rightEar": 100.5,
+        "frqDiffrence": 0.5,
+        "effect": "Deep sleep, relaxation, cellular healing",
+        "duration": 7200,
+        "usage": "During sleep or pre-sleep relaxation"
+    },
+    {
+        "frq": "0.5-4 Hz (Delta) 2",
+        "leftEar": 100,
+        "rightEar": 104,
+        "frqDiffrence": 4,
+        "effect": "Deep sleep, relaxation, cellular healing",
+        "duration": 7200,
+        "usage": "During sleep or pre-sleep relaxation"
+    }
+]
